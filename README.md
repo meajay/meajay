@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meajay
 - 👀 I am a professional Android Developer
-- 🌱 I wanted to learn about good practices in terms of Android Development.
+- 🌱 Cuurently I am trying to learn best practices in Andorid Development.
 - 💞️ I’m looking to collaborate in kotlin , android
 - 📫 How to reach me - Drop me a mail on official.achauhan@gmail.com
 

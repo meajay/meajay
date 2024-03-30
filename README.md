@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @meajay
-- 👀 I am a professional Android Developer
-- 🌱 Cuurently I am trying to learn best practices in Andorid Development.
-- 💞️ I’m looking to collaborate in kotlin , android
-- 📫 How to reach me - Drop me a mail on official.achauhan@gmail.com
+- 👀 I am a professional Android Developer with 7 years of work experience. My passion lies in creating robust and user-friendly mobile applications. I specialize in both Java and Kotlin, ensuring efficient and elegant code.
+- 🌱 Currently, I am learning best practices in Android Development.
+- 💞️ I’m looking to collaborate on Kotlin and Android projects.
+- 📫 How to reach me: Drop me an email at official.achauhan@gmail.com
 
 <!---
 meajay/meajay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
